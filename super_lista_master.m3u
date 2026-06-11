@@ -1,0 +1,209 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Abertos",GLOBO SP
+http://67.159.53.50/live/glbsp/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Abertos",BAND
+http://67.159.53.50/live/band/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Abertos",SBT
+http://67.159.53.50/live/sbt/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Abertos",RECORD TV
+http://67.159.53.50/live/record/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Abertos",TV CULTURA
+http://67.159.53.50/live/tvcultura/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Abertos",TV GAZETA
+http://67.159.53.50/live/tvgazeta/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Documentário",DISCOVERY CHANNEL
+http://67.159.53.50/live/discovery/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Documentário",DISCOVERY TURBO
+http://67.159.53.50/live/discoveryturbo/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Documentário",DISCOVERY WORLD
+http://67.159.53.50/live/discoveryworld/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Documentário",DISCOVERY SCIENCE
+http://67.159.53.50/live/discoveryscience/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Documentário",DISCOVERY THEATER
+http://67.159.53.50/live/discoverytheater/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Documentário",INVESTIGAÇÃO DISCOVERY
+http://67.159.53.50/live/id/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Documentário",NATIONAL GEOGRAPHIC
+http://67.159.53.50/live/natgeo/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Documentário",HISTORY 2
+http://67.159.53.50/live/history2/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Documentário",ANIMAL PLANET
+http://67.159.53.50/live/animalplanet/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Documentário",TLC
+http://67.159.53.50/live/tlc/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Entretenimento",GNT
+http://67.159.53.50/live/gnt/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Entretenimento",MULTISHOW
+http://67.159.53.50/live/multishow/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes",COMBATE
+http://67.159.53.50/live/combate/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes",BAND SPORTS
+http://67.159.53.50/live/bandsports/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes",SPORTV 1
+http://67.159.53.50/live/sportv1/index.m3u8
+
+#EXTINF:-1 group-title="Esportes",ESPN 1
+http://67.159.53.50/live/espn1/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes",SPORTV 2
+http://67.159.53.50/live/sportv2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes",ESPN 2
+http://67.159.53.50/live/espn2/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes",SPORTV 3
+http://67.159.53.50/live/sportv3/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes",ESPN 3
+http://67.159.53.50/live/espn3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes",ESPN 4
+http://67.159.53.50/live/espn4/index.m3u8
+
+#EXTINF:-1 group-title="Esportes",ESPN 5
+http://67.159.53.50/live/espn5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes",ESPN 6
+http://67.159.53.50/live/espn6/tracks-v1/index.ll.m3u8
+
+#EXTINF:-1 group-title="Esportes",PREMIERE 1
+http://67.159.53.50/live/premiere1/tracks-v1/index.ll.m3u8
+
+#EXTINF:-1 group-title="Esportes",PREMIERE 2
+http://67.159.53.50/live/premiere2/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes",PREMIERE 3
+http://67.159.53.50/live/premiere3/tracks-v1/index.ll.m3u8
+
+#EXTINF:-1 group-title="Esportes",PREMIERE 4
+http://67.159.53.50/live/premiere4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes",PREMIERE 5
+http://67.159.53.50/live/premiere5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes",PREMIERE 6
+http://67.159.53.50/live/premiere6/tracks-v1/index.ll.m3u8
+
+#EXTINF:-1 group-title="Esportes",PREMIERE 7
+http://67.159.53.50/live/premiere7/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes",PREMIERE 12
+http://67.159.53.50/live/premiere12/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes",TELECINE PREMIUM
+http://67.159.53.50/live/telecinepremium/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes",TELECINE ACTION
+http://67.159.53.50/live/telecineaction/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes",TELECINE PIPOCA
+http://67.159.53.50/live/telecinepipoca/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes",TELECINE FUN
+http://67.159.53.50/live/telecinefun/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes",TELECINE TOUCH
+http://67.159.53.50/live/telecinetouch/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes",TELECINE CULT
+http://67.159.53.50/live/telecinecult/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes",MEGAPIX
+http://67.159.53.50/live/megapix/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes",HBO 2
+http://67.159.53.50/live/hbo2/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes",HBO PLUS
+http://67.159.53.50/live/hboplus/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes",HBO FAMILY
+http://67.159.53.50/live/hbofamily/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes",HBO MUNDI
+http://67.159.53.50/live/hbomundi/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes",HBO POP
+http://67.159.53.50/live/hbopop/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes",HBO SIGNATURE
+http://67.159.53.50/live/hbosignature/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes",SPACE
+http://67.159.53.50/live/space/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes",TNT
+http://67.159.53.50/live/tnt/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes",CINEMAX
+http://67.159.53.50/live/cinemax/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes",AMC
+http://67.159.53.50/live/amc/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes",STUDIO UNIVERSAL
+http://67.159.53.50/live/studiouniversal/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Infantil",CARTOONITO
+http://67.159.53.50/live/cartoonito/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Infantil",GLOOB
+http://67.159.53.50/live/gloob/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Infantil",GLOOBINHO
+http://67.159.53.50/live/gloobinho/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Infantil",DISCOVERY KIDS
+http://67.159.53.50/live/discoverykids/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Música",CANAL BIS
+http://67.159.53.50/live/bis/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Notícias",BAND NEWS
+http://67.159.53.50/live/bandnews/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Notícias",RECORD NEWS
+http://67.159.53.50/live/recordnews/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Novelas",VIVA
+http://67.159.53.50/live/viva/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Religioso",CANÇÃO NOVA
+http://67.159.53.50/live/cancaonova/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Religioso",REDE VIDA
+http://67.159.53.50/live/redevida/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Séries",AXN
+http://67.159.53.50/live/axn/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Séries",WARNER CHANNEL
+http://67.159.53.50/live/warner/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Séries",SYFY
+http://67.159.53.50/live/syfy/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Variedades",SABOR & ARTE
+http://67.159.53.50/live/saborartes/tracks-v1a1l1/mono.m3u8
+
