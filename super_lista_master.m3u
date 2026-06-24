@@ -1,115 +1,196 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Abertos",GLOBO SP
+#EXTINF:-1 group-title="Abertos",GLOBO SÃO PAULO
 http://67.159.53.50/live/glbsp/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Abertos",GLOBO RJ
+http://67.159.53.50/live/globorj/tracks-v1a1l1/mono.m3u8
 
 #EXTINF:-1 group-title="Abertos",BAND
 http://67.159.53.50/live/band/tracks-v1a1l1/mono.m3u8
 
-#EXTINF:-1 group-title="Abertos",SBT
+#EXTINF:-1 group-title="Abertos",SBT SP
 http://67.159.53.50/live/sbt/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Abertos",RECORD SP
+http://67.159.53.50/live/record/tracks-v1a1l1/mono.m3u8
 
 #EXTINF:-1 group-title="Abertos",RECORD TV
 http://67.159.53.50/live/record/tracks-v1a1l1/mono.m3u8
 
-#EXTINF:-1 group-title="Abertos",TV CULTURA
+#EXTINF:-1 group-title="Abertos",CULTURA
 http://67.159.53.50/live/tvcultura/tracks-v1a1l1/mono.m3u8
 
-#EXTINF:-1 group-title="Abertos",TV GAZETA
+#EXTINF:-1 group-title="Abertos",GAZETA
 http://67.159.53.50/live/tvgazeta/tracks-v1a1l1/mono.m3u8
 
-#EXTINF:-1 group-title="Documentário",DISCOVERY CHANNEL
+#EXTINF:-1 group-title="Abertos",TV Brasil HD
+http://67.159.53.50/live/tvbrasil/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Documentários",TLC
+http://67.159.53.50/live/tlc/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Documentários",FOOD NETWORK
+http://67.159.53.50/live/foodnetwork/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Documentários",DOG TV
+http://67.159.53.50/live/dogtv/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Documentários",HGTV
+http://67.159.53.50/live/hgtv/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Documentários",DISCOVERY ID
+http://67.159.53.50/live/id/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Documentários",DISCOVERY CHANNEL
 http://67.159.53.50/live/discovery/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Documentários",Animal Planet
+http://67.159.53.50/live/animalplanet/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Documentários",HISTORY 2
+http://67.159.53.50/live/history2/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Documentários",DISCOVERY TURBO
+http://67.159.53.50/live/discoveryturbo/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Documentários",DISCOVERY SCIENCE
+http://67.159.53.50/live/discoveryscience/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Documentários",DISCOVERY THEATER
+http://67.159.53.50/live/discoverytheater/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Documentários",DISCOVERY WORLD
+http://67.159.53.50/live/discoveryworld/tracks-v1a1l1/mono.m3u8
 
 #EXTINF:-1 group-title="Documentário",DISCOVERY TURBO
 http://67.159.53.50/live/discoveryturbo/tracks-v1a1l1/mono.m3u8
 
-#EXTINF:-1 group-title="Documentário",DISCOVERY WORLD
-http://67.159.53.50/live/discoveryworld/tracks-v1a1l1/mono.m3u8
-
-#EXTINF:-1 group-title="Documentário",DISCOVERY SCIENCE
-http://67.159.53.50/live/discoveryscience/tracks-v1a1l1/mono.m3u8
-
-#EXTINF:-1 group-title="Documentário",DISCOVERY THEATER
-http://67.159.53.50/live/discoverytheater/tracks-v1a1l1/mono.m3u8
+#EXTINF:-1 group-title="Documentários",Travel Box Brazil
+http://67.159.53.50/live/travelboxbrazil/tracks-v1a1l1/mono.m3u8
 
 #EXTINF:-1 group-title="Documentário",INVESTIGAÇÃO DISCOVERY
 http://67.159.53.50/live/id/tracks-v1a1l1/mono.m3u8
 
-#EXTINF:-1 group-title="Documentário",NATIONAL GEOGRAPHIC
-http://67.159.53.50/live/natgeo/tracks-v1a1l1/mono.m3u8
+#EXTINF:-1 group-title="Entretenimento",FUTURA
+http://67.159.53.50/live/futura/tracks-v1a1l1/mono.m3u8
 
-#EXTINF:-1 group-title="Documentário",HISTORY 2
-http://67.159.53.50/live/history2/tracks-v1a1l1/mono.m3u8
+#EXTINF:-1 group-title="Entretenimento",Modo Viagem
+http://67.159.53.50/live/modoviagem/tracks-v1a1l1/mono.m3u8
 
-#EXTINF:-1 group-title="Documentário",ANIMAL PLANET
-http://67.159.53.50/live/animalplanet/tracks-v1a1l1/mono.m3u8
+#EXTINF:-1 group-title="Entretenimento",CURTA
+http://67.159.53.50/live/curta/tracks-v1a1l1/mono.m3u8
 
-#EXTINF:-1 group-title="Documentário",TLC
-http://67.159.53.50/live/tlc/tracks-v1a1l1/mono.m3u8
+#EXTINF:-1 group-title="Entretenimento",BIS
+http://67.159.53.50/live/bis/tracks-v1a1l1/mono.m3u8
 
-#EXTINF:-1 group-title="Entretenimento",GNT
-http://67.159.53.50/live/gnt/tracks-v1a1l1/mono.m3u8
+#EXTINF:-1 group-title="Entretenimento",LIFETIME
+http://67.159.53.50/live/lifetime/tracks-v1a1l1/mono.m3u8
 
-#EXTINF:-1 group-title="Entretenimento",MULTISHOW
-http://67.159.53.50/live/multishow/tracks-v1a1l1/mono.m3u8
+#EXTINF:-1 group-title="Entretenimento",ADULT SWIM
+http://67.159.53.50/live/adultswim/tracks-v1a1l1/mono.m3u8
 
-#EXTINF:-1 group-title="Esportes",COMBATE
-http://67.159.53.50/live/combate/tracks-v1a1l1/mono.m3u8
+#EXTINF:-1 group-title="Entretenimento",EUROCHANNEL
+http://67.159.53.50/live/eurochannel/tracks-v1a1l1/mono.m3u8
 
-#EXTINF:-1 group-title="Esportes",BAND SPORTS
-http://67.159.53.50/live/bandsports/tracks-v1a1l1/mono.m3u8
+#EXTINF:-1 group-title="Entretenimento",CANAL BRASIL
+http://67.159.53.50/live/canalbrasil/tracks-v1a1l1/mono.m3u8
 
-#EXTINF:-1 group-title="Esportes",SPORTV 1
-http://67.159.53.50/live/sportv1/index.m3u8
+#EXTINF:-1 group-title="Entretenimento",CANAL RURAL
+http://67.159.53.50/live/canalrural/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes",GE TV
+http://67.159.53.50/live/getv/tracks-v1a1l1/mono.m3u8
 
 #EXTINF:-1 group-title="Esportes",ESPN 1
 http://67.159.53.50/live/espn1/tracks-v1a1l1/mono.m3u8
 
-#EXTINF:-1 group-title="Esportes",SPORTV 2
-http://67.159.53.50/live/sportv2/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="Esportes",ESPN 2
 http://67.159.53.50/live/espn2/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes",ESPN 3
+http://67.159.53.50/live/espn3/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes",ESPN 4
+http://67.159.53.50/live/espn4/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes",ESPN 5
+http://67.159.53.50/live/espn5/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes",ESPN 6
+http://67.159.53.50/live/espn6/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes",SPORTV 1
+http://67.159.53.50/live/sportv1/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes",SPORTV 2
+http://67.159.53.50/live/sportv2/tracks-v1a1l1/mono.m3u8
 
 #EXTINF:-1 group-title="Esportes",SPORTV 3
 http://67.159.53.50/live/sportv3/tracks-v1a1l1/mono.m3u8
 
-#EXTINF:-1 group-title="Esportes",ESPN 3
-http://67.159.53.50/live/espn3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Esportes",ESPN 4
-http://67.159.53.50/live/espn4/index.m3u8
-
-#EXTINF:-1 group-title="Esportes",ESPN 5
-http://67.159.53.50/live/espn5/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Esportes",ESPN 6
-http://67.159.53.50/live/espn6/tracks-v1/index.ll.m3u8
-
 #EXTINF:-1 group-title="Esportes",PREMIERE 1
-http://67.159.53.50/live/premiere1/tracks-v1/index.ll.m3u8
+http://67.159.53.50/live/premiere1/tracks-v1a1l1/mono.m3u8
 
 #EXTINF:-1 group-title="Esportes",PREMIERE 2
 http://67.159.53.50/live/premiere2/tracks-v1a1l1/mono.m3u8
 
 #EXTINF:-1 group-title="Esportes",PREMIERE 3
-http://67.159.53.50/live/premiere3/tracks-v1/index.ll.m3u8
-
-#EXTINF:-1 group-title="Esportes",PREMIERE 4
-http://67.159.53.50/live/premiere4/tracks-v1a1/mono.m3u8
+http://67.159.53.50/live/premiere3/tracks-v1a1l1/mono.m3u8
 
 #EXTINF:-1 group-title="Esportes",PREMIERE 5
-http://67.159.53.50/live/premiere5/tracks-v1a1/mono.m3u8
+http://67.159.53.50/live/premiere5/tracks-v1a1l1/mono.m3u8
 
 #EXTINF:-1 group-title="Esportes",PREMIERE 6
-http://67.159.53.50/live/premiere6/tracks-v1/index.ll.m3u8
+http://67.159.53.50/live/premiere6/tracks-v1a1l1/mono.m3u8
 
 #EXTINF:-1 group-title="Esportes",PREMIERE 7
-http://67.159.53.50/live/premiere7/tracks-v1a1/mono.m3u8
+http://67.159.53.50/live/premiere7/tracks-v1a1l1/mono.m3u8
 
-#EXTINF:-1 group-title="Esportes",PREMIERE 12
-http://67.159.53.50/live/premiere12/tracks-v1a1l1/mono.m3u8
+#EXTINF:-1 group-title="Esportes",BAND SPORTS
+http://67.159.53.50/live/bandsports/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes",COMBATE
+http://67.159.53.50/live/combate/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes",ELEVEN SPORTS 1
+http://67.159.53.50/live/elevensports1/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes",ELEVEN SPORTS 2
+http://67.159.53.50/live/elevensports2/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes",ELEVEN SPORTS 3
+http://67.159.53.50/live/elevensports3/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes",ELEVEN SPORTS 4
+http://67.159.53.50/live/elevensports4/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Esportes",ELEVEN SPORTS 5
+http://67.159.53.50/live/elevensports5/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes",ARTE 1
+http://67.159.53.50/live/arte1/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes",USA
+http://67.159.53.50/live/usanetwork/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes",TNT
+http://67.159.53.50/live/tnt/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes",Megapixt
+http://67.159.53.50/live/megapix/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes",SPACE
+http://67.159.53.50/live/space/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes",STUDIO UNIVERSAL
+http://67.159.53.50/live/studiouniversal/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes",Cinemax
+http://67.159.53.50/live/cinemax/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes",Prime Box Brazil
+http://67.159.53.50/live/primebox/tracks-v1a1l1/mono.m3u8
 
 #EXTINF:-1 group-title="Filmes",TELECINE PREMIUM
 http://67.159.53.50/live/telecinepremium/tracks-v1a1l1/mono.m3u8
@@ -117,59 +198,41 @@ http://67.159.53.50/live/telecinepremium/tracks-v1a1l1/mono.m3u8
 #EXTINF:-1 group-title="Filmes",TELECINE ACTION
 http://67.159.53.50/live/telecineaction/tracks-v1a1l1/mono.m3u8
 
-#EXTINF:-1 group-title="Filmes",TELECINE PIPOCA
-http://67.159.53.50/live/telecinepipoca/tracks-v1a1l1/mono.m3u8
+#EXTINF:-1 group-title="Filmes",TELECINE TOUCH
+http://67.159.53.50/live/telecinetouch/tracks-v1a1l1/mono.m3u8
 
 #EXTINF:-1 group-title="Filmes",TELECINE FUN
 http://67.159.53.50/live/telecinefun/tracks-v1a1l1/mono.m3u8
 
-#EXTINF:-1 group-title="Filmes",TELECINE TOUCH
-http://67.159.53.50/live/telecinetouch/tracks-v1a1l1/mono.m3u8
+#EXTINF:-1 group-title="Filmes",Telecine Pipoca
+http://67.159.53.50/live/telecinepipoca/tracks-v1a1l1/mono.m3u8
 
 #EXTINF:-1 group-title="Filmes",TELECINE CULT
 http://67.159.53.50/live/telecinecult/tracks-v1a1l1/mono.m3u8
 
-#EXTINF:-1 group-title="Filmes",MEGAPIX
-http://67.159.53.50/live/megapix/tracks-v1a1l1/mono.m3u8
+#EXTINF:-1 group-title="Filmes",HBO
+http://67.159.53.50/live/hbo1/tracks-v1a1l1/mono.m3u8
 
-#EXTINF:-1 group-title="Filmes",HBO 2
+#EXTINF:-1 group-title="Filmes",HBO2
 http://67.159.53.50/live/hbo2/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes",HBO Family
+http://67.159.53.50/live/hbofamily/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes",HBO Signature
+http://67.159.53.50/live/hbosignature/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Filmes",HBO Pop
+http://67.159.53.50/live/hbopop/tracks-v1a1l1/mono.m3u8
 
 #EXTINF:-1 group-title="Filmes",HBO PLUS
 http://67.159.53.50/live/hboplus/tracks-v1a1l1/mono.m3u8
 
-#EXTINF:-1 group-title="Filmes",HBO FAMILY
-http://67.159.53.50/live/hbofamily/tracks-v1a1l1/mono.m3u8
-
-#EXTINF:-1 group-title="Filmes",HBO MUNDI
+#EXTINF:-1 group-title="Filmes",HBO Mundi
 http://67.159.53.50/live/hbomundi/tracks-v1a1l1/mono.m3u8
 
-#EXTINF:-1 group-title="Filmes",HBO POP
-http://67.159.53.50/live/hbopop/tracks-v1a1l1/mono.m3u8
-
-#EXTINF:-1 group-title="Filmes",HBO SIGNATURE
-http://67.159.53.50/live/hbosignature/tracks-v1a1l1/mono.m3u8
-
-#EXTINF:-1 group-title="Filmes",SPACE
-http://67.159.53.50/live/space/tracks-v1a1l1/mono.m3u8
-
-#EXTINF:-1 group-title="Filmes",TNT
-http://67.159.53.50/live/tnt/tracks-v1a1l1/mono.m3u8
-
-#EXTINF:-1 group-title="Filmes",CINEMAX
-http://67.159.53.50/live/cinemax/tracks-v1a1l1/mono.m3u8
-
-#EXTINF:-1 group-title="Filmes",AMC
-http://67.159.53.50/live/amc/tracks-v1a1l1/mono.m3u8
-
-#EXTINF:-1 group-title="Filmes",STUDIO UNIVERSAL
-http://67.159.53.50/live/studiouniversal/tracks-v1a1l1/mono.m3u8
-
-#EXTINF:-1 group-title="Infantil",CARTOONITO
-http://67.159.53.50/live/cartoonito/tracks-v1a1l1/mono.m3u8
-
-#EXTINF:-1 group-title="Infantil",GLOOB
-http://67.159.53.50/live/gloob/tracks-v1a1l1/mono.m3u8
+#EXTINF:-1 group-title="Filmes",HBO XTREME
+http://67.159.53.50/live/hboxtreme/tracks-v1a1l1/mono.m3u8
 
 #EXTINF:-1 group-title="Infantil",GLOOBINHO
 http://67.159.53.50/live/gloobinho/tracks-v1a1l1/mono.m3u8
@@ -177,33 +240,147 @@ http://67.159.53.50/live/gloobinho/tracks-v1a1l1/mono.m3u8
 #EXTINF:-1 group-title="Infantil",DISCOVERY KIDS
 http://67.159.53.50/live/discoverykids/tracks-v1a1l1/mono.m3u8
 
-#EXTINF:-1 group-title="Música",CANAL BIS
-http://67.159.53.50/live/bis/tracks-v1a1l1/mono.m3u8
+#EXTINF:-1 group-title="Infantil",GLOOB
+http://67.159.53.50/live/gloob/tracks-v1a1l1/mono.m3u8
 
-#EXTINF:-1 group-title="Notícias",BAND NEWS
-http://67.159.53.50/live/bandnews/tracks-v1a1l1/mono.m3u8
+#EXTINF:-1 group-title="Infantil",CARTOONITO
+http://67.159.53.50/live/cartoonito/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Infantil",TV RA TIM BUM
+http://67.159.53.50/live/tvratimbum/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Infantil",DUMDUM
+http://67.159.53.50/live/dumdum/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Internacional",FRANCE 24 HD
+http://67.159.53.50/live/france24/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Internacional",SPORT TV 1 POR
+http://67.159.53.50/live/sporttv1por/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Internacional",SPORT TV 2 POR
+http://67.159.53.50/live/sporttv2por/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Internacional",SPORT TV 3 POR
+http://67.159.53.50/live/sporttv3por/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Internacional",SPORT TV 4 POR
+http://67.159.53.50/live/sporttv4por/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Internacional",SPORT TV 5 POR
+http://67.159.53.50/live/sporttv5por/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Internacional",Bein Sports 1
+http://67.159.53.50/live/beinsports1/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Internacional",Bein Sports 2
+http://67.159.53.50/live/beinsports2/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Internacional",Bein Sports 3
+http://67.159.53.50/live/beinsports3/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Internacional",Bein Sports 4
+http://67.159.53.50/live/beinsports4/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Internacional",Bein Sports 5
+http://67.159.53.50/live/beinsports5/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Internacional",Bein Sports 6
+http://67.159.53.50/live/beinsports6/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Internacional",Bein Sports 7
+http://67.159.53.50/live/beinsports7/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Notícias",CBI HD
+http://67.159.53.50/live/cbihd/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Notícias",GloboNews
+http://67.159.53.50/live/globonews/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Notícias",BM&C
+http://67.159.53.50/live/bmc/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Notícias",CNN MONEY
+http://67.159.53.50/live/cnnmoney/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Notícias",AGROMAIS
+http://67.159.53.50/live/agromais/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Notícias",CGTN
+http://67.159.53.50/live/cgtn/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Notícias",JOVEM PAN NEWS
+http://67.159.53.50/live/jpnews/tracks-v1a1l1/mono.m3u8
 
 #EXTINF:-1 group-title="Notícias",RECORD NEWS
 http://67.159.53.50/live/recordnews/tracks-v1a1l1/mono.m3u8
 
-#EXTINF:-1 group-title="Novelas",VIVA
+#EXTINF:-1 group-title="Notícias",SBT NEWS
+http://67.159.53.50/live/sbtnews/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Notícias",CANAL UOL
+http://67.159.53.50/live/canaluol/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Novelas",viva
 http://67.159.53.50/live/viva/tracks-v1a1l1/mono.m3u8
 
-#EXTINF:-1 group-title="Religioso",CANÇÃO NOVA
-http://67.159.53.50/live/cancaonova/tracks-v1a1l1/mono.m3u8
+#EXTINF:-1 group-title="Novelas",TNT NOVELAS
+http://67.159.53.50/live/tntnovelas/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Religioso",REDE GOSPEL
+http://67.159.53.50/live/redegospel/tracks-v1a1l1/mono.m3u8
 
 #EXTINF:-1 group-title="Religioso",REDE VIDA
 http://67.159.53.50/live/redevida/tracks-v1a1l1/mono.m3u8
 
+#EXTINF:-1 group-title="Religioso",CANÇÃO NOVA
+http://67.159.53.50/live/cancaonova/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Religioso",TV APARECIDA
+http://67.159.53.50/live/aparecida/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Religioso",TV Pai Eterno
+http://67.159.53.50/live/tvpaieterno/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Religioso",TV NOVO TEMPO
+http://67.159.53.50/live/novotempo/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Séries",Warner
+http://67.159.53.50/live/warner/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Séries",SONY CHANNEL
+http://67.159.53.50/live/sonychannel/tracks-v1a1l1/mono.m3u8
+
 #EXTINF:-1 group-title="Séries",AXN
 http://67.159.53.50/live/axn/tracks-v1a1l1/mono.m3u8
 
-#EXTINF:-1 group-title="Séries",WARNER CHANNEL
-http://67.159.53.50/live/warner/tracks-v1a1l1/mono.m3u8
+#EXTINF:-1 group-title="Séries",TNT SERIES
+http://67.159.53.50/live/tntseries/tracks-v1a1l1/mono.m3u8
 
-#EXTINF:-1 group-title="Séries",SYFY
-http://67.159.53.50/live/syfy/tracks-v1a1l1/mono.m3u8
+#EXTINF:-1 group-title="Séries",AMC
+http://67.159.53.50/live/amc/tracks-v1a1l1/mono.m3u8
 
-#EXTINF:-1 group-title="Variedades",SABOR & ARTE
-http://67.159.53.50/live/saborartes/tracks-v1a1l1/mono.m3u8
+#EXTINF:-1 group-title="Séries",Studio Universal
+http://67.159.53.50/live/studiouniversal/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Séries",UNIVERSAL PREMIERE
+http://67.159.53.50/live/universalpremiere/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Variedades",OFF
+http://67.159.53.50/live/off/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Variedades",GNT
+http://67.159.53.50/live/gnt/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Variedades",MULTISHOW
+http://67.159.53.50/live/multishow/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Variedades",FASHION TV
+http://67.159.53.50/live/fashiontv/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Variedades",FISH TV
+http://67.159.53.50/live/fishtv/tracks-v1a1l1/mono.m3u8
+
+#EXTINF:-1 group-title="Variedades",WOOHOO
+http://67.159.53.50/live/woohoo/tracks-v1a1l1/mono.m3u8
 
